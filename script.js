@@ -4,7 +4,7 @@ let b = 0
 let c = 0
 let answer = 0
 
-document.getElementById ('button').addEventListener('click', formula)
+document.getElementById('button').addEventListener('click', formula)
 
 function formula () {
 // I am linking the variables to the input
