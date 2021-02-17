@@ -1,1 +1,2 @@
- [![linter](https://github.com/Jonathan-Tesfaye/Unit6-04/workflows/linter/badge.svg)](https://github.com/marketplace/actions/super-linter)
+# Unit6-04
+[![linter](https://github.com/Jonathan-Tesfaye/Unit6-04/workflows/linter/badge.svg)](https://github.com/marketplace/actions/super-linter)
